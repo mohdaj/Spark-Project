@@ -18,3 +18,5 @@ The packages used in this project are:
 
 # Credit
 Credit goes to Sparkify for providing the data used in this project.
+
+My blog post on Medium website is [Here](https://medium.com/@engmoh24/predict-user-churn-using-pyspark-c8b2b66e4172)
